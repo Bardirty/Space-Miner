@@ -1,0 +1,2745 @@
+fileFormatVersion: 2
+guid: ae742553694070741ab11983dc436f2d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: giphy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7332.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcefd11ff0bf89428e43fe2b18ae919
+      internalID: -1683686877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_1
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 7332.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4175b30c1de1f244faa5a367f498fa0d
+      internalID: -95681367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_2
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 7332.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a03fee1e1bbea64389c7db519a4ae91
+      internalID: -1292142714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_3
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 7332.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c588848aff3243848b0bf57ccbc1506c
+      internalID: -2083514113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_4
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 7332.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fa42de0aeac39459f662a314c8ab49
+      internalID: -1606924555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_5
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 7332.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e38bae76d0d1c4dafd94096b44910c
+      internalID: -264146185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_6
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 7332.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90189ed6f0d639547bc4380c6125c6fb
+      internalID: -70175785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6874.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48d992042f026e4abfd096e63d72211
+      internalID: 1023946470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 6874.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e50287e2b7d9549b75d2e5dde8c5ae
+      internalID: -337352958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_9
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6874.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69b555cf5215db40a7535754fe88bed
+      internalID: 453825893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_10
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 6874.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0cf8bd9b2524a41adfa4b13cc738b5
+      internalID: 874884976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_11
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 6874.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028c63fe12b6e6740a3734a488f039a7
+      internalID: -802670911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_12
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 6874.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04df21fb63b1d08469274b477d9a908a
+      internalID: 1954587039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_13
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 6874.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf07470b9d102a48bb3cd0bf7426b65
+      internalID: 918833448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6416.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354890fc978fd49429ac24174f8cb33b
+      internalID: -404539808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 6416.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697fe452159cfa94a87f5a15fe0df86b
+      internalID: 1993808026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_16
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6416.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be59ac1a561aa48469d27d23f8affee6
+      internalID: 1131661195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_17
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 6416.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a65738efe142d419af4efb1f570a14
+      internalID: 2041886031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_18
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 6416.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8e8985d074a9d4da9d2724f9792b08
+      internalID: -194993642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_19
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 6416.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a9ba92d18e9e94dacd07d08c1d8945
+      internalID: 1920976016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_20
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 6416.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9681679aa2303304fb42611ffa3cea0a
+      internalID: 1264264179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5958.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaacc376f187efe4ba9b691863aa50f9
+      internalID: 1396049840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_22
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 5958.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d352fa7c3bc272b47995ff16497f4c5e
+      internalID: 667382309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_23
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 5958.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868af1454c5263f4ab33ce2eb1e59cb8
+      internalID: -429403787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_24
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 5958.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f4a4519111995458be38cbef1ed7d2
+      internalID: -477462708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_25
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 5958.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4bcc2d3fb892646a972b874baa3429
+      internalID: 1170421848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_26
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 5958.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05673672a997cea4aa29d6553e44bf43
+      internalID: 599188331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_27
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 5958.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b9bda03116682449cb1d5594f796ee
+      internalID: 65524523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5500.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4300e2108a10a3f4da3170ea914c4e68
+      internalID: -1779624988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_29
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 5500.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba0d2ca22a6a4d42950cf6cb5bc0e84
+      internalID: 1543239634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_30
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 5500.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b3906a02962f4429992bd05568ad92
+      internalID: -971150492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_31
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 5500.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a540dfba65edaee4aa5868c25a5030bc
+      internalID: -492940445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_32
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 5500.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766c98ad3661d424b8904c64cedbec0b
+      internalID: -584803397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_33
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 5500.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157ba6f0b4db7e745bf0f690ae1a4fe5
+      internalID: -630448891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_34
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 5500.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e785b8020aa71344ca9742702afb89bd
+      internalID: -317251688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5042.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bdea1c8295bc34cad8787f48028660
+      internalID: -1572115360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_36
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 5042.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd0f27579236694c85d1edf4be47300
+      internalID: -1551589830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_37
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 5042.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f68d1a3b835c274e9dddcd3622814c8
+      internalID: -1963947616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_38
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 5042.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16925d1c57fab0843b19dd6b5d5e6168
+      internalID: -901670310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_39
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 5042.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb3981f243d0904b92335e32d2a9e07
+      internalID: -1382071522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_40
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 5042.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4730e2eac15b12541bebc88c00370eab
+      internalID: -1829385323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_41
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 5042.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b045ba42d5e9b0439b8862473232d6b
+      internalID: -1876215362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4584.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313a2770ce3a214499713f171f02edc4
+      internalID: 1697824767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_43
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 4584.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced342bdd8fbf70408ee8a475acad312
+      internalID: -688784452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_44
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 4584.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b6ac52cc239184a99885d55f4fd8c2
+      internalID: -846209855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_45
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 4584.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816e517ee5c944f4887812adbd51472d
+      internalID: -621577547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_46
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 4584.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffdaa801dea6f34492f4a576ad7065c
+      internalID: 810533098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_47
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 4584.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a171a71e040a5e4b9bbeb9278f3c048
+      internalID: 387132511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_48
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 4584.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a67b86aa9651124f8fb8c2913502d07
+      internalID: -2108067519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4126.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c9789f43f42f241af8d5c559c742ff
+      internalID: 2065071658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_50
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 4126.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42157a36e8f40914d9c797f466f12596
+      internalID: 761768485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_51
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 4126.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f6e6d5d30ef7a48bfa9d5022cc2e78
+      internalID: 1815231846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_52
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 4126.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e47f54bbb7824469b9a05e41e22fc5
+      internalID: -828000617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_53
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 4126.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6636066cf475a4d89bfb3fd32e3c05
+      internalID: 2125116938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_54
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 4126.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9a9cd1aae038e4dab7d29e54477643
+      internalID: -1477934528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_55
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 4126.706
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc84333c37c6dff4db0b581df0af7fb6
+      internalID: 858071078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3668.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f7336bb5d1ef049a2ddf7d28714170
+      internalID: 1026110226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_57
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3668.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a618250bcf6cdea44b20d7ead7a6bd23
+      internalID: -191052681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_58
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 3668.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548df63da5826d44eae13c16f0bfdbb8
+      internalID: -1904142478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_59
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 3668.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345009ca843f4924b9dfa2b918ac1577
+      internalID: -2096759527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_60
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 3668.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bd2b3b54ded0742805a425150116fd
+      internalID: 1341581423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_61
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 3668.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7715d5f093cd64eb85388d7c729d9c
+      internalID: -1610928929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_62
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 3668.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2042c98214d5641973ed5eae01bd1b
+      internalID: -732110338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3210.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfb1069502468542a6cb3615e99ac53
+      internalID: -553783440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_64
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3210.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d041c8629bc6f14b83e9628996ae33e
+      internalID: 2017788773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_65
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 3210.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08044b7fdc75c3a4e949806064ff6858
+      internalID: -1997602739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_66
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 3210.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445cbc9c8e536da4bb5a2e659b456bc3
+      internalID: -1742821550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_67
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 3210.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f95216fa7cc5f4497c680e376f7971
+      internalID: -1820527240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_68
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 3210.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90de451405b2924eb91f63c1d9cc6f5
+      internalID: -1923747279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_69
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 3210.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a214c77ad791c14da517b7ff7b1efbc
+      internalID: -640018144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2752.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9b2e50339664844a0b6a5f2a70de92
+      internalID: -345536318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_71
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2752.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6476ee1056e4f81489cc21bae93e3cb4
+      internalID: -294073451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_72
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2752.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959a9d668348bdf4196bba347191912f
+      internalID: -1230142849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_73
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 2752.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8906e85132a9c1042bff85c3aa024254
+      internalID: 1879775523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_74
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 2752.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b30101e27aba641830e39ae5be7a0a
+      internalID: -295423890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_75
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 2752.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04bc9bddff33484eb20b7da9c3a7cfe
+      internalID: -1530847234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_76
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 2752.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6671bae6ae995134188e00a1f39c601e
+      internalID: -1969067698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2294.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfe12d1c366d2d488a3a574dbd289ca
+      internalID: -1481931326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_78
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2294.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276dda076a26f4b4b8a54c32a2455551
+      internalID: -1583157215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_79
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2294.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c978e9f949847b40808480057c3fcff
+      internalID: 1026597508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_80
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 2294.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1ca0eae3ec2e64b8e8c6c2a329de46
+      internalID: -1937401096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_81
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 2294.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3224cb12300084289566b9eaf602cc
+      internalID: -1972092201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_82
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 2294.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d6f996fc823924fb18d9db3a29eb13
+      internalID: 246655051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_83
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 2294.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90db6f3d68c90964a9d5e4b31b082c25
+      internalID: 1903714904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1836.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c739b2238a98e143b57b5ee5c155460
+      internalID: 1864477676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_85
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1836.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676350e9816e8ad438a678caab341860
+      internalID: -650323341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_86
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1836.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad5a0b2f5576704ebf6ed6ed9ae46aa
+      internalID: 595571607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_87
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1836.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfb27f6e4eb15743b4959bdfdef19cc
+      internalID: -722774361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_88
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1836.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c51908075a3c3747a2ab7060c37f153
+      internalID: -1449472975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_89
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 1836.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d15647f25394f148b10ba4abc460625
+      internalID: -380970645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_90
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 1836.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236a79091e423ec4d980d6a51cf17c51
+      internalID: -1649328373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1378.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7241d4ff2dc064880be75aea42fa23
+      internalID: -2133803650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_92
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1378.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72d7a174d8f24e4ea2f833971cc2bbe
+      internalID: 1271336215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_93
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1378.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1dc4b8fb1dc0f468043d123e3c8d85
+      internalID: 1573196125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_94
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1378.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca2ffc820a5b7e4eb6a03e17bb8b6f9
+      internalID: -271946671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_95
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1378.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218cd8e4919a9024cb185b52e0fb16ab
+      internalID: 1135016929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_96
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 1378.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a792998f47de334f989d6ae619f0747
+      internalID: -23825507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_97
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 1378.7058
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30179d5baf5e0d141aa829caf6430e41
+      internalID: 894154199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920.7059
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61804bd249577141a176fc45fbbcc59
+      internalID: -138661202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_99
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 920.7059
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3edf14a8dcedef4189c6fd84a83fa0d
+      internalID: 2051080479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_100
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 920.7059
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ba34354551bd441844eb9a192ffdc3
+      internalID: -987769145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_101
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 920.7059
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c893fe393087c254ab66d6a7d987abb6
+      internalID: 2107016840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_102
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 920.7059
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563e025773a263a4da0d05c915c6c0ec
+      internalID: 1666028614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_103
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 920.7059
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79c0d06ade337844b390b8f0959525d
+      internalID: 1551156700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_104
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 920.7059
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dbdd2ce6b503b4faba55e311df8f9d
+      internalID: 1561530670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462.70587
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a0aec2062409448bce142d576ea021
+      internalID: 669240889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_106
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 462.70587
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e484f4dafbf0e43b865db85b37461c
+      internalID: 714340316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_107
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 462.70587
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eba6f74673dbf4ba2df2ef53dd0f99
+      internalID: -1273240515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_108
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 462.70587
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70744ee587438a3429ce039c7cfc1d76
+      internalID: -384566506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_109
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 462.70587
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266d9f1c53f69844d99ccc5b8a486539
+      internalID: 48432046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_110
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 462.70587
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896a6c704ff4f3a48af1fa1ac0a5e299
+      internalID: -296380952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_111
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 462.70587
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a9deb103508d24ca592ea41ff2db1c
+      internalID: 99957917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.7058716
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786bc278ae534e84e89ce0a6ece45d17
+      internalID: 584986393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_113
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 4.7058716
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f775b228ca5854b95897b0de6e8eaf
+      internalID: 620976145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_114
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 4.7058716
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407d2d28ca6a954449b8179233b227d0
+      internalID: 1247139343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_115
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 4.7058716
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d881392a4f7c319438888ba1a5edf43a
+      internalID: -155964632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_116
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 4.7058716
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f542bf5c6f4c164eb2b08bfeea0036b
+      internalID: 1920712801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_117
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 4.7058716
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5345c552b83254a448e69fa505bfaf9b
+      internalID: -467907794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giphy_118
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 4.7058716
+        width: 458.2857
+        height: 458.29413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee793829f58fa574a80c0ada15cb4412
+      internalID: 1094161762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c543f8250e42e6b43abd3c377629d5e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      giphy_0: -1683686877
+      giphy_1: -95681367
+      giphy_10: 874884976
+      giphy_100: -987769145
+      giphy_101: 2107016840
+      giphy_102: 1666028614
+      giphy_103: 1551156700
+      giphy_104: 1561530670
+      giphy_105: 669240889
+      giphy_106: 714340316
+      giphy_107: -1273240515
+      giphy_108: -384566506
+      giphy_109: 48432046
+      giphy_11: -802670911
+      giphy_110: -296380952
+      giphy_111: 99957917
+      giphy_112: 584986393
+      giphy_113: 620976145
+      giphy_114: 1247139343
+      giphy_115: -155964632
+      giphy_116: 1920712801
+      giphy_117: -467907794
+      giphy_118: 1094161762
+      giphy_12: 1954587039
+      giphy_13: 918833448
+      giphy_14: -404539808
+      giphy_15: 1993808026
+      giphy_16: 1131661195
+      giphy_17: 2041886031
+      giphy_18: -194993642
+      giphy_19: 1920976016
+      giphy_2: -1292142714
+      giphy_20: 1264264179
+      giphy_21: 1396049840
+      giphy_22: 667382309
+      giphy_23: -429403787
+      giphy_24: -477462708
+      giphy_25: 1170421848
+      giphy_26: 599188331
+      giphy_27: 65524523
+      giphy_28: -1779624988
+      giphy_29: 1543239634
+      giphy_3: -2083514113
+      giphy_30: -971150492
+      giphy_31: -492940445
+      giphy_32: -584803397
+      giphy_33: -630448891
+      giphy_34: -317251688
+      giphy_35: -1572115360
+      giphy_36: -1551589830
+      giphy_37: -1963947616
+      giphy_38: -901670310
+      giphy_39: -1382071522
+      giphy_4: -1606924555
+      giphy_40: -1829385323
+      giphy_41: -1876215362
+      giphy_42: 1697824767
+      giphy_43: -688784452
+      giphy_44: -846209855
+      giphy_45: -621577547
+      giphy_46: 810533098
+      giphy_47: 387132511
+      giphy_48: -2108067519
+      giphy_49: 2065071658
+      giphy_5: -264146185
+      giphy_50: 761768485
+      giphy_51: 1815231846
+      giphy_52: -828000617
+      giphy_53: 2125116938
+      giphy_54: -1477934528
+      giphy_55: 858071078
+      giphy_56: 1026110226
+      giphy_57: -191052681
+      giphy_58: -1904142478
+      giphy_59: -2096759527
+      giphy_6: -70175785
+      giphy_60: 1341581423
+      giphy_61: -1610928929
+      giphy_62: -732110338
+      giphy_63: -553783440
+      giphy_64: 2017788773
+      giphy_65: -1997602739
+      giphy_66: -1742821550
+      giphy_67: -1820527240
+      giphy_68: -1923747279
+      giphy_69: -640018144
+      giphy_7: 1023946470
+      giphy_70: -345536318
+      giphy_71: -294073451
+      giphy_72: -1230142849
+      giphy_73: 1879775523
+      giphy_74: -295423890
+      giphy_75: -1530847234
+      giphy_76: -1969067698
+      giphy_77: -1481931326
+      giphy_78: -1583157215
+      giphy_79: 1026597508
+      giphy_8: -337352958
+      giphy_80: -1937401096
+      giphy_81: -1972092201
+      giphy_82: 246655051
+      giphy_83: 1903714904
+      giphy_84: 1864477676
+      giphy_85: -650323341
+      giphy_86: 595571607
+      giphy_87: -722774361
+      giphy_88: -1449472975
+      giphy_89: -380970645
+      giphy_9: 453825893
+      giphy_90: -1649328373
+      giphy_91: -2133803650
+      giphy_92: 1271336215
+      giphy_93: 1573196125
+      giphy_94: -271946671
+      giphy_95: 1135016929
+      giphy_96: -23825507
+      giphy_97: 894154199
+      giphy_98: -138661202
+      giphy_99: 2051080479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
